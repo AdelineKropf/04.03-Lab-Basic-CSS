@@ -32,7 +32,7 @@ tbody tr:hover {
 }
 
 img {
-  width: 300px;
+  max-width: 300px; /* Source: https://www.w3schools.com/cssref/pr_dim_max-width.php */
 }
 
 #nameAndDate {
@@ -51,4 +51,14 @@ a {
   font-family: "Arial", Helvetica, sans-serif;
   font-size: 12px;
   color: blue;
+}
+
+a:visited {
+  color: purple; /* Source: https://www.w3schools.com/Css/css_link.asp */
+}
+
+span:hover {
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: palegoldenrod;
 }
