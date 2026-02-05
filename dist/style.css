@@ -41,13 +41,7 @@ img {
   color: gray;
 }
 
-p {
-  font-family: Times 'Times New Roman';
-  font-size: 16px;
-  color: darkslategray;
-}
-
-ol {
+p, ol {
   font-family: Times 'Times New Roman';
   font-size: 16px;
   color: darkslategray;
