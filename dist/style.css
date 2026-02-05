@@ -1,6 +1,6 @@
 h1 {
   padding: 5px;
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   color: white;
   background-color: red;
@@ -36,19 +36,19 @@ img {
 }
 
 #nameAndDate {
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   color: gray;
 }
 
 p, ol {
-  font-family: Times 'Times New Roman';
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
   color: darkslategray;
 }
 
 a {
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   color: blue;
 }
